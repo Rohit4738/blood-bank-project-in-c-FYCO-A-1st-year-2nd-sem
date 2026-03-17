@@ -17,6 +17,7 @@ int main()
         printf("2. View Donors\n");
         printf("3. View Total Blood Types\n");
         printf("4. Exit\n");
+        printf("-------------------------\n");
         printf("Enter choice: ");
         scanf("%d", &choice);
 
