@@ -1,0 +1,36 @@
+Pseudo-Algorithm
+START
+LOOP forever:
+
+Display menu options (Add Donor, View Donors, View Total Blood Types, Exit)
+Read user choice
+
+IF choice = 1 (Add Donor):
+
+Input: name, age, blood group, contact, expiry date
+IF age ≥ 18 → print "Eligible"; ELSE → print "Not eligible"
+Append record to bloodbank.txt
+
+ELSE IF choice = 2 (View Donors):
+
+Open bloodbank.txt for reading
+IF file not found → print "No donors found"
+ELSE → read and print each record until EOF
+
+ELSE IF choice = 3 (View Blood Types):
+
+Open bloodbank.txt for reading
+IF file not found → print "No donors found"
+ELSE → read each record; increment counter for matching blood group
+Print counts for all 8 blood types (A+, A−, B+, B−, AB+, AB−, O+, O−)
+
+ELSE IF choice = 4 (Exit):
+
+Print "Exiting..." and break loop
+
+ELSE:
+
+Print "Invalid choice"
+
+END LOOP
+END
