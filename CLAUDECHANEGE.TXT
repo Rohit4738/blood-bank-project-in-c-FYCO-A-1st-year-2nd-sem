@@ -1,0 +1,23 @@
+can you add this students : and note for seat no of all of them use 1234567
+
+
+
+
+
+enrollment no. 25612590035, name: SARANG NAVNATH  MUNJE , roll no : FYCO A35, 
+
+
+
+enrollment no. 25612590030 , name: YASH AMEY ALAI, roll no : FYCO A30, 
+
+
+
+enrollment no. 25612590028 , name: SHIVAM EKNATH PISAL , roll no : FYCO A28, 
+
+
+
+enrollment no. 25612590036 , name: VRUSHABH SOPAN PAWAR  , roll no : FYCO A36, 
+
+
+
+enrollment no. 25612590021 , name: ROHIT ANIL NIKAM  , roll no : FYCO A21, 
